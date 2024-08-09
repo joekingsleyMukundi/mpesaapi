@@ -312,10 +312,3 @@ js
 .catch((error) => {
     console.log(error);
 });
-
-css
-
-
-This `README.md` format includes all necessary details for setting up and using the M-Pesa API integration demo, formatted for clarity and completeness.
-
-ChatGPT can make mistakes. Check important info.
